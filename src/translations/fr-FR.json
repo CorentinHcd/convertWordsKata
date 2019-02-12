@@ -1,0 +1,10 @@
+{
+  "APP_NAME": "Words to number kata",
+  "ABOUT": "A propos",
+  "HELLO_WORLD": "Bonjour le monde !",
+  "HOME": "Accueil",
+  "VERSION": "Version",
+  "NUMBER_INPUT": "Montant en chiffres sans les centimes ( Min : 2, Max: 1 000 000 )",
+  "FILL_INPUT_NUMBER": "Veuillez saisir le montant de votre chèque",
+  "SUBMIT": "Convertir en lettres"
+}

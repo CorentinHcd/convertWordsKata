@@ -1,0 +1,10 @@
+{
+  "APP_NAME": "convertWordsKata",
+  "ABOUT": "About",
+  "HELLO_WORLD": "Hello world !",
+  "HOME": "Home",
+  "VERSION": "Version",
+  "NUMBER_INPUT": "Amount in numbers without cents ( Min : 2, Max: 1 000 000 )",
+  "FILL_INPUT_NUMBER": "Please write down the amount of your check",
+  "SUBMIT": "Convert to words"
+}

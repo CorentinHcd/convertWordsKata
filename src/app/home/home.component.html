@@ -1,0 +1,30 @@
+<div class="container-fluid">
+  <div class="jumbotron text-center">
+    <h1><img class="logo" src="assets/ngx-rocket-logo.png" alt="angular logo" /> <span translate>HELLO_WORLD</span></h1>
+    <app-loader [isLoading]="isLoading"></app-loader>
+    <q [hidden]="isLoading">{{ quote }}</q>
+  </div>
+  <form
+    [formGroup]="checkForm"
+    (ngSubmit)="convertNumber(checkForm.get('numberCheck').value, checkForm.get('numberCheck').value)"
+  >
+    <div class="form-group">
+      <label for="number-input" translate>NUMBER_INPUT</label>
+      <input
+        class="form-control"
+        formControlName="numberCheck"
+        step="0.01"
+        type="number"
+        id="number-input"
+        aria-describedby="numberHelp"
+        placeholder="{{ 'FILL_INPUT_NUMBER' | translate }}"
+      />
+    </div>
+    <button type="submit" class="btn btn-primary" [disabled]="!numberCtrl.errors.validNumber">
+      <span translate>SUBMIT</span>
+    </button>
+  </form>
+  <div class="text-center font-weight-bold" *ngIf="numberConvertToWords !== ''">
+    {{ numberConvertToWords | titlecase }} Euros
+  </div>
+</div>
