@@ -1,19 +1,19 @@
 {
   "configVersion": 1,
-  "index": "https://corentinhcd.github.io/convertWordsKata/index.html",
+  "index": "https://corentinhcd.github.io/convertWordsKata/home/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://corentinhcd.github.io/convertWordsKata/4.78904acd802b37b823d5.js",
-        "https://corentinhcd.github.io/convertWordsKata/favicon.ico",
-        "https://corentinhcd.github.io/convertWordsKata/index.html",
-        "https://corentinhcd.github.io/convertWordsKata/main.13e13646593475c19189.js",
-        "https://corentinhcd.github.io/convertWordsKata/polyfills.04d0c0c57e55fd915765.js",
-        "https://corentinhcd.github.io/convertWordsKata/runtime.43f2e355c28698388024.js",
-        "https://corentinhcd.github.io/convertWordsKata/styles.d7bbe65f7eab29eaab3f.css"
+        "https://corentinhcd.github.io/convertWordsKata/home/4.78904acd802b37b823d5.js",
+        "https://corentinhcd.github.io/convertWordsKata/home/favicon.ico",
+        "https://corentinhcd.github.io/convertWordsKata/home/index.html",
+        "https://corentinhcd.github.io/convertWordsKata/home/main.13e13646593475c19189.js",
+        "https://corentinhcd.github.io/convertWordsKata/home/polyfills.04d0c0c57e55fd915765.js",
+        "https://corentinhcd.github.io/convertWordsKata/home/runtime.43f2e355c28698388024.js",
+        "https://corentinhcd.github.io/convertWordsKata/home/styles.d7bbe65f7eab29eaab3f.css"
       ],
       "patterns": []
     },
@@ -22,21 +22,21 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "https://corentinhcd.github.io/convertWordsKata/assets/ngx-rocket-logo.png"
+        "https://corentinhcd.github.io/convertWordsKata/home/assets/ngx-rocket-logo.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://corentinhcd.github.io/convertWordsKata/4.78904acd802b37b823d5.js": "00d98f6d6a393c8f1bcf22a32240e917a69be49c",
-    "https://corentinhcd.github.io/convertWordsKata/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
-    "https://corentinhcd.github.io/convertWordsKata/favicon.ico": "b65083d46bbf63692d5d2cdd69622e6d7ecae317",
-    "https://corentinhcd.github.io/convertWordsKata/index.html": "3b302b02d32af93a30d5f6ce6fa2dc53aa6ec741",
-    "https://corentinhcd.github.io/convertWordsKata/main.13e13646593475c19189.js": "88a73e96e5c54b084d4a40c65ffc943168a4e99f",
-    "https://corentinhcd.github.io/convertWordsKata/polyfills.04d0c0c57e55fd915765.js": "ce68d153e9b9b6d26b625069c0ee99ae09c6f255",
-    "https://corentinhcd.github.io/convertWordsKata/runtime.43f2e355c28698388024.js": "9bc101d32a91593f064eb96aba7214869dca983f",
-    "https://corentinhcd.github.io/convertWordsKata/styles.d7bbe65f7eab29eaab3f.css": "f19b908f4941c3cf76423dcb96d56ac83eb45413"
+    "https://corentinhcd.github.io/convertWordsKata/home/4.78904acd802b37b823d5.js": "00d98f6d6a393c8f1bcf22a32240e917a69be49c",
+    "https://corentinhcd.github.io/convertWordsKata/home/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
+    "https://corentinhcd.github.io/convertWordsKata/home/favicon.ico": "b65083d46bbf63692d5d2cdd69622e6d7ecae317",
+    "https://corentinhcd.github.io/convertWordsKata/home/index.html": "0daa33c25fff8bf591dc20ff26fc8a97d21001d0",
+    "https://corentinhcd.github.io/convertWordsKata/home/main.13e13646593475c19189.js": "88a73e96e5c54b084d4a40c65ffc943168a4e99f",
+    "https://corentinhcd.github.io/convertWordsKata/home/polyfills.04d0c0c57e55fd915765.js": "ce68d153e9b9b6d26b625069c0ee99ae09c6f255",
+    "https://corentinhcd.github.io/convertWordsKata/home/runtime.43f2e355c28698388024.js": "9bc101d32a91593f064eb96aba7214869dca983f",
+    "https://corentinhcd.github.io/convertWordsKata/home/styles.d7bbe65f7eab29eaab3f.css": "f19b908f4941c3cf76423dcb96d56ac83eb45413"
   },
   "navigationUrls": [
     {
